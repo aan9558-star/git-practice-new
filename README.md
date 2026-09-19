@@ -1,2 +1,4 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+[Interesting Software Development Article](https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/)
+### Why it's interesting to me
+I find this article interesting because everyone assumes that big technological companies, such as Amazon, Intuit, Google, etc., are reducing their staff/laying engineers off because AI could replace the work that they produce. However, Meta is deciding to restructure their engineers as well. So, they are taking about a fifth of their engineers and reassigning them to data labeling work to actually train the AI(s). Of course, we all know that AI is seen to be the next big thing. However, it makes me wonder if we actually need this many engineers to train the AI. It makes me wonder what Meta actually has in store that it is not revealing to the public just yet. Truly, from what I am understanding thus far, we will come to understand shortly.
